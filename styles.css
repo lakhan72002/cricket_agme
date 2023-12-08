@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: rgb(114, 128, 115);
+}
+
+.choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(164, 212, 130);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.choice-button:hover{
+    background-color: rgb(136, 187, 100);
+    border: 1px solid green;
+}
+
+.choice-image{
+    height: 75px;
+    
+}
+
+.reset-button{
+    height: 70px;
+    width: 250px;
+    font-size: 30px;
+    border-radius: 20px;
+    border: 2px solid brown;
+    background-color: rgb(180, 76, 76);
+    color: Srgb(152, 132, 96);
+    cursor: pointer;
+
+}
+.reset-button:hover{
+    color: white;
+    background-color: rgb(169, 59, 59);
+    border: none;
+}
+
+
+
